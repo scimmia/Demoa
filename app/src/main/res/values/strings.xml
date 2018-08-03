@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demoa</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="agreement">我已确认无误.</string>
+    <string name="clear_pad">清除</string>
+    <string name="save_signature">确定</string>
+
+
+    <string name="picker_text_parse">解析数据</string>
+    <string name="picker_text_show">显示省市区选择器</string>
+
+</resources>
